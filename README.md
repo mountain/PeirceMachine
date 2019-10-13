@@ -1,2 +1,2 @@
 # PeirceMachine
-A collection of reference, document and thinking of Peirce's Semiotic theory
+A collection of references, documents and thinking of Peirce's Semiotic theory
